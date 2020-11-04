@@ -1,0 +1,147 @@
+[
+  {
+    "image_thumb": "/assets/images/thumbs/product-13.jpg",
+    "image_preview": "http://img.edilportale.com/product-thumbs/b_06-Vitra-26008-rel2dd09604.png",
+		"name": "Vitra",
+		"description": "Chaise longue",
+		"price": "€ 780,00",
+    "link": "http://www.archiproducts.com/it/prodotti/vitra/chaise-longue-in-stile-moderno-06_26008",
+		"color": [
+			"red",
+      "grey"
+		]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-14.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_relax-azea-200510-relc6355420.jpg",
+  "name": "AZEA",
+  "description": "SDormeuse capitonné in tessuto",
+  "price": "€ 1.699,09",
+  "old_price": "€ 1.788,52",
+  "discount": "-5%",
+  "link": "http://www.archiproducts.com/it/prodotti/azea/dormeuse-capitonne-in-tessuto-relax_200510",
+  "color": [
+    "grey"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-15.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_madonna-day-bed-norr11-87772-relcc6d66c0.jpg",
+  "name": "NORR11",
+  "description": "Dormeuse imbottita in tessuto",
+  "price": "€ 1.099,00",
+  "link": "http://www.archiproducts.com/it/prodotti/norr11/dormeuse-imbottita-in-tessuto-madonna-dormeuse_87772",
+  "color": [
+    "grey"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-16.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_METAMORFOSI-Oval-washbasin-Olympia-Ceramica-182735-rel9091b407.jpeg",
+  "name": "Olympia Ceramica",
+  "description": "Lavabo da appoggio ovale",
+  "price": "€ 287,24",
+  "old_price": "€ 337,94",
+  "discount": "-5%",
+  "link": "http://www.archiproducts.com/it/prodotti/olympia-ceramica/lavabo-da-appoggio-ovale-metamorfosi-lavabo-ovale_182735",
+  "color": [
+    "grey",
+    "white"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-17.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_ergo-40-cm-galassia-60706-rel666baeec.jpg",
+  "name": "GALASSIA",
+  "description": "Lavabo da appoggio in ceramica",
+  "price": "€ 124,00",
+  "link": "http://www.archiproducts.com/it/prodotti/galassia/lavabo-da-appoggio-in-ceramica-ergo-40-cm_60706",
+  "color": [
+    "white"
+  ]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-18.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_voido-magis-213671-reld1eead7.jpg",
+"name": "Magis",
+"description": "Poltrona a dondolo",
+"price": "€ 512,00",
+"link": "http://www.archiproducts.com/it/prodotti/magis/poltrona-a-dondolo-in-polietilene-voido_213671",
+"color": [
+  "brown"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-19.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_prodotti-145015-rel7a26488a68f94e7a9820f039e5ffea6d.jpg",
+"name": "Sérénité Luxury Monaco",
+"description": "Poltrona da giardino in Sunbrella®",
+"price": "€ 1.451,80",
+"link": "http://www.archiproducts.com/it/prodotti/serenite-luxury-monaco/poltrona-da-giardino-in-sunbrella-miami-poltrona-da-giardino_145015",
+"color": [
+  "orange"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-20.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_prodotti-115505-relb89501f083194fd198ee10ffb030b883.jpg",
+"name": "Fatboy Italia",
+"description": "Poltrona a sacco in acrilico",
+"price": "€ 249,95",
+"link": "http://www.archiproducts.com/it/prodotti/fatboy-italia/poltrona-a-sacco-in-acrilico-original-outdoor-poltrona-a-sacco_115505",
+"color": [
+  "green"
+]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-21.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_magis-proust-magis-24966-rela6847530.jpg",
+  "name": "Magis",
+  "description": "Poltrona da giardino",
+  "price": "€ 720,00",
+  "link": "http://www.archiproducts.com/it/prodotti/magis/poltrona-da-giardino-in-polietilene-con-braccioli-magis-proust-poltrona-da-giardino-design_24966",
+  "color": [
+    "ornge"
+  ]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-22.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_JETLAG-CHAIR-PLUST-Collection-by-Euro-3-Plast-248537-relcf2cb7.jpg",
+"name": "Plust",
+"description": "Poltrona modulare",
+"price": "€ 258,03",
+"old-price": "€ 286,70",
+"discount": "-10%",
+"link": "http://www.archiproducts.com/it/prodotti/plust/poltrona-modulare-in-polietilene-jetlag-chair_248537",
+"color": [
+  "brown"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-23.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_FUTURA-SP-Vetreria-Vistosi-241800-rel5b5d30c0.jpg",
+"name": "Vetreria Vistosi",
+"description": "Lampada a sospensione",
+"price": "€ 300,73",
+"old_price": "€ 353,80",
+"discount": "-15%",
+"link": "http://www.archiproducts.com/it/prodotti/vetreria-vistosi/lampada-a-sospensione-futura-sp_241800",
+"color": [
+  "brown",
+  "black",
+  "yellow"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-24.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_bright-ballerina-nordic-tales-275242-rel4d4710a0.jpg",
+"name": "Nordic Tales",
+"description": "Lampada a sospensione",
+"price": "€ 220,00",
+"link": "http://www.archiproducts.com/it/prodotti/nordic-tales/lampada-a-sospensione-bright-ballerina_275242",
+"color": [
+  "green",
+  "white"
+]
+}
+]

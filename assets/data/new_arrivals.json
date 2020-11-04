@@ -1,0 +1,154 @@
+[
+  {
+    "image_thumb": "/assets/images/thumbs/product-01.jpg",
+    "image_preview": "http://img.edilportale.com/product-thumbs/b_SLICE-DIMPLE-POP-KUBIKOFF-236027-rel80a43018.jpg",
+		"name": "KUBIKOFF",
+		"description": "CHAISE ANGEL",
+		"price": "€ 489,25",
+    "old_price": "€ 489,25",
+    "discount": "-5%",
+    "link": "http://www.archiproducts.com/it/prodotti/kubikoff/sedia-imbottita-slice-dimple-pop_236027",
+		"color": [
+			"grey",
+			"black"
+		]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-02.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_MAESTRO-Officine-Tamborrino-199360-relce5a72c8.jpg",
+  "name": "Officine Tamborrino",
+  "description": "Sedia imbottita con braccioli",
+  "price": "€ 252,54",
+  "old_price": "€ 280,60",
+  "discount": "-5%",
+  "link": "http://www.archiproducts.com/it/prodotti/officine-tamborrino/sedia-imbottita-con-braccioli-maestro_199360",
+  "color": [
+    "green",
+    "black"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-03.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_a-sp01-262651-reld5a2f806.jpg",
+  "name": "SP01",
+  "description": "Poltrona in tessuto",
+  "price": "€ 1.830,00",
+  "link": "http://www.archiproducts.com/it/prodotti/sp01/poltrona-girevole-in-tessuto-con-braccioli-anita-poltrona-in-tessuto_262651",
+  "color": [
+    "pink",
+    "brown"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-04.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_BACK-ME-UP-LOUNGE-Montis-293334-rel8f585bc0.jpg",
+  "name": "Montis",
+  "description": "BACK ME UP LOUNGE",
+  "price": "€ 1.470,10",
+  "link": "http://www.archiproducts.com/it/prodotti/montis/poltrona-in-tessuto-con-braccioli-back-me-up-lounge_293334",
+  "color": [
+    "grey",
+    "brown"
+  ]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-05.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_TA-Er-Black-Poltroncina-KUBIKOFF-238877-rel98485b7.jpg",
+  "name": "KUBIKOFF",
+  "description": "Poltroncina",
+  "price": "€ 124,45",
+  "old-price": "€ 131,00",
+  "discount": "-5%",
+  "link": "http://www.archiproducts.com/it/prodotti/kubikoff/poltroncina-in-acciaio-in-stile-moderno-per-contract-ta-er-black-poltroncina_238877",
+  "color": [
+    "red",
+    "black"
+  ]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-06.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_loft-366-concept-s-c-286960-relb85ab85e.jpg",
+"name": "366 Concept s.c.",
+"description": "Poltroncina",
+"price": "€ 657,00",
+"old_price": "€ 730,00",
+"discount": "-5%",
+"link": "http://www.archiproducts.com/it/prodotti/366-concept-s-c/poltroncina-in-ciniglia-con-braccioli-fox-loft-poltroncina_286960",
+"color": [
+  "yellow",
+  "brown"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-07.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_prodotti-126037-rel3e1aeb4d3ca04d43aa43a257d1eaf48a.jpg",
+"name": "Mara",
+"description": "Romeo",
+"price": "€ 199,80",
+"old_price": "€ 222,00",
+"discount": "-10%",
+"link": "http://www.archiproducts.com/it/prodotti/mara/tavolo-rotondo-romeo_126037",
+"color": [
+  "black"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-08.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_prodotti-139526-reld49b21825ad14ceea7d6fc89fb8c230e.jpg",
+"name": "LOEHR",
+"description": "Tavolo in legno",
+"price": "€ 1.250,00",
+"link": "http://www.archiproducts.com/it/prodotti/loehr/tavolo-rotondo-in-legno-per-contract-jl3-tavolo-in-legno_139526",
+"color": [
+  "black",
+  "brown"
+]
+},
+{
+  "image_thumb": "/assets/images/thumbs/product-09.jpg",
+  "image_preview": "http://img.edilportale.com/product-thumbs/b_HIBISCUS-L-Bazartherapy-207749-rele311b388.jpg",
+  "name": "Bazartherapy",
+  "description": "HIBISCUS L",
+  "price": "€ 460,00",
+  "link": "http://www.archiproducts.com/it/prodotti/bazartherapy/tavolino-di-servizio-in-hpl-e-faggio-hibiscus-l_207749",
+  "color": [
+    "red",
+    "black"
+  ]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-10.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_prodotti-139496-relc058ca48a8bf4149b3bfe5769596651c.jpg",
+"name": "LOEHR",
+"description": "Tavolino rotondo",
+"price": "€ 375,00",
+"link": "http://www.archiproducts.com/it/prodotti/loehr/tavolino-di-servizio-rotondo-in-mdf-dl3-tavolino-rotondo_139496",
+"color": [
+  "green"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-11.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_MOBIUSH-Tabanda-235981-rel773ec704.jpg",
+"name": "Tabanda",
+"description": "MOBIUSH",
+"price": "€ 439,00",
+"link": "http://www.archiproducts.com/it/prodotti/tabanda/tavolino-da-caffe-rotondo-in-alluminio-e-legno-mobiush_235981",
+"color": [
+  "brown",
+  "black"
+]
+},
+{
+"image_thumb": "/assets/images/thumbs/product-12.jpg",
+"image_preview": "http://img.edilportale.com/product-thumbs/b_c16-coffee-table-tolix-steel-design-239215-rela554f0f5.jpg",
+"name": "Tolix Steel Design",
+"description": "Tavolino",
+"price": "€ 325,00",
+"link": "http://www.archiproducts.com/it/prodotti/tolix-steel-design/tavolino-alto-rotondo-c16-tavolino_239215",
+"color": [
+  "yellow",
+  "brown"
+]
+}
+]

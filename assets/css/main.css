@@ -1,0 +1,99 @@
+/* ASSETS */
+body {
+    font-family: Arial, sans-serif;
+}
+/* typography */
+.weight {
+    font-weight: 700;
+}
+.carousel-caption .h2 {
+    font-size: 33px;
+}
+/* header */
+.nav-logo {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    width: 250px;
+    height: auto;
+}
+
+/* carousel */
+.img-size {
+    height: 340px;
+    max-width: 100%;
+}
+.mobile-icon {
+    display: none;
+}
+.arrow {
+    width: 18px;
+    fill: #fff;
+}
+
+/* MAIN */
+
+.title {
+    margin: 20px 0px;
+}
+.line {
+    display: inline-block;
+    width: 55px;
+    height: 4px;
+    background: yellow;
+}
+
+/* css vue */
+.select-input {
+    display: flex;
+    justify-content: center;
+}
+.select-w {
+    width: 200px;
+    margin-left: 100px;
+}
+.disabled {
+    color: gray;
+    cursor: pointer;
+}
+.disabled:hover,
+.display:active {
+    color: #000;
+}
+.display {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-item {
+    align-self: center;
+    flex-basis: calc((100% / 12) * 4); 
+    margin: 10px;
+} 
+.card {
+    height: 400px;
+}
+
+
+/* MEDIA QUERY */
+
+@media screen and (min-width: 768px) {
+    .nav-logo {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .nav-logo .logo {
+        margin-left: 173px; 
+    }
+    .img-size {
+        height: 100%;
+        width: 100%;
+    }
+    .mobile-icon {
+        display: block;
+    }
+    /* css vue */
+    .card-item {
+        flex-basis: calc((100% / 12) * 2);
+    }
+}
