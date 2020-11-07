@@ -8,10 +8,6 @@ const app = Vue.createApp({
                     <li @click="getApi('best_seller.json')" class="list-inline-item disabled">Best Seller</li>
                     <li @click="getApi('most_view.json')" class="list-inline-item disabled">Most View</li>
                 </ul>
-                <select id="inputState" class="form-control select-w">
-                    <option selected>Filter by color</option>
-                    <option v-for="product in products">{{ product.color }}</option> <!-- NB to fix -->
-                </select>
             </div>
             <div v-if="products === null">Loading...</div>
             <div v-else class="container display">
